@@ -10,7 +10,6 @@ This is a simple calculator web application with light and dark themes. It allow
 
 - Basic arithmetic operations (addition, subtraction, multiplication, division)
 - Light and dark theme toggling
-- Responsive design
 
 ## Technologies Used
 
